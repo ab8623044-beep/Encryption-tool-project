@@ -87,3 +87,4 @@ class CryptoSystem:
     # ---------------- Metadata ----------------
     def read_metadata(self, enc_path: str):
         return CryptoUtils.read_metadata(enc_path)
+
